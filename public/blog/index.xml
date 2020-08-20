@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on aaron lightner</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on aaron lightner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 16:11:48 -0700</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>/blog/helloworld/</link>
+      <pubDate>Mon, 10 Aug 2020 16:11:48 -0700</pubDate>
+      
+      <guid>/blog/helloworld/</guid>
+      <description>First blog post ever Thanks for stopping by my academic weblog. This will be dedicated to reporting on new research, projects I&amp;rsquo;m involved in, and data analysis in R. I also plan to preview my own research as it progresses. As a social scientist, I will post discussions about anything that interests me as a researcher, or with interesting applications to my own fields (anthropology, cognitive science) or adjacent fields.</description>
+    </item>
+    
+  </channel>
+</rss>

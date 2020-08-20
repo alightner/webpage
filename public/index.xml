@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aaron lightner</title>
+    <link>/</link>
+    <description>Recent content on aaron lightner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 10 Aug 2020 16:11:48 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>/blog/helloworld/</link>
+      <pubDate>Mon, 10 Aug 2020 16:11:48 -0700</pubDate>
+      
+      <guid>/blog/helloworld/</guid>
+      <description>First blog post ever Thanks for stopping by my academic weblog. This will be dedicated to reporting on new research, projects I&amp;rsquo;m involved in, and data analysis in R. I also plan to preview my own research as it progresses. As a social scientist, I will post discussions about anything that interests me as a researcher, or with interesting applications to my own fields (anthropology, cognitive science) or adjacent fields.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I study the cognitive foundations of culture from an evolutionary perspective. Human cognition evolved to process and respond to information about conflict, coordination, and socioecological variation. How do cultural patterns reliably emerge from these individual-level processes? As a PhD candidate in evolutionary anthropology, my dissertation research asks how and why people defer to others, particularly specialists in science and religion, to help them make decisions. This research integrates diverse theoretical perspectives, including cognitive science, evolutionary biology, and game theory; and methods include a combination of empirical research, social network analysis, and computational modeling.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Lightner, AD, Hagen, EH. (preprint). Acculturation and market integration are associated with greater trust among Tanzanian Maasai pastoralists. [PDF]
+Lightner, AD, Hagen, EH. (2018). Mapping the terra incognita of economic cognition will require an experimental paradigm that incorporates context [commentary on Boyer and Petersen]. Behavioral and Brain Sciences, 41. [PDF]
+Lightner, AD, Barclay, P, &amp;amp; Hagen, EH. (2017). Radical framing effects in the ultimatum game: the impact of explicit culturally transmitted frames on economic decision-making.</description>
+    </item>
+    
+  </channel>
+</rss>
