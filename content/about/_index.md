@@ -6,7 +6,7 @@ images: ["/images/sample.jpg"]
 
 Thanks for checking out my website :sunglasses:
 
-I'm Aaron, a social and behavioral researcher currently residing in Denmark. My background and expertise are in cognitive and evolutionary anthropology, and I am currently a postdoctoral researcher in the Department of the Study of Religion at [Aarhus University](https://cas.au.dk/en/about-the-school/departments/the-study-of-religion).
+I'm Aaron, a social and behavioral researcher currently residing in Denmark. My background and expertise are in cognitive and evolutionary anthropology, and I am a postdoctoral researcher in the Department of the Study of Religion at [Aarhus University](https://cas.au.dk/en/about-the-school/departments/the-study-of-religion).
 
 **My research is ultimately about using data to better understand patterns of human behavior.** How do our minds interact with our diverse cultural environments, and how and why can this result in predictably different ideas and decision-making behaviors around the world?
 
@@ -18,4 +18,4 @@ Other specific questions that my research has asked include: Why do people inves
 
 Here's my [academic CV](/about/CV/Lightner_CV_2022.pdf), and here's my [professional resume](/about/Resume/Lightner_Resume_Feb2022.pdf).
 
-When I'm not reading, writing, and analyzing data, I enjoy biking, swimming, and making homemade craft beer and mead. Feel free to also reach out, either [on Twitter](https://twitter.com/adlightner) or [by email](mailto:alightner2@gmail.com).
+When I'm not reading, writing, and analyzing data, I enjoy biking, swimming, and making homemade craft beer and mead. Feel free to reach out, either [on Twitter](https://twitter.com/adlightner) or [by email](mailto:alightner2@gmail.com).
