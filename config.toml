@@ -61,7 +61,7 @@ pygmentsCodeFences=true
 
 [params.contact]
   email = "alightner2@gmail.com"
-  text= "Let's chat" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
